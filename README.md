@@ -1,7 +1,7 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
- ## NAME:k hemanth yadav
- ## REGISTER NUMBER: 212224100033
- ## DEPARTMENT:cyber security
+ ## NAME:IRFAN KHAN
+ ## REGISTER NUMBER: 212224230097
+ ## DEPARTMENT:AI&DS
  ## YEAR:1sr year
  ## Aim:
 To publish data to an IoT broker using the MQTT protocol.
